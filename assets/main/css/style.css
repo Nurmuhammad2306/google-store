@@ -50,6 +50,35 @@ body {
     background-size: 100% 100%;
 }
 
+.home_title {
+    color: var(--grey);
+    font-size: 57px;
+}
+
+.d_text {
+    color: var(--grey);
+}
+
+.home_btn {
+    padding:8px 20px;
+    color: var(--grey);
+    border: 2px solid var(--grey);
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.home_btn:hover {
+    background-color: var(--grey);
+    color: #fff;
+}
+
+.home_link {
+    color: var(--grey);
+    text-decoration: none;
+    padding: 8px 20px;
+}
+
 /* --------------- Home Section End --------------- */
 
 
